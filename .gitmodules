@@ -1,3 +1,4 @@
 [submodule "Samples"]
 	path = Samples
-	url = git@github.com:sharpdx/SharpDX-Samples.git
+	url = git@github.com:gtx70/SharpDXSamples_MyRepo.git
+	branch = fixed
